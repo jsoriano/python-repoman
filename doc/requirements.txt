@@ -1,0 +1,13 @@
+# testing
+nose
+coverage
+mox
+unittest2
+
+# documentation
+sphinx
+sphinx-bootstrap-theme
+
+# production
+sh
+ordereddict
